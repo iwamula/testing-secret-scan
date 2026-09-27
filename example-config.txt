@@ -1,7 +1,7 @@
-This file intentionally contains AWS's own publicly documented EXAMPLE credentials
-(https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html)
-for the sole purpose of testing GitHub Advanced Security secret scanning detection.
-These values are non-functional placeholders and are not real credentials.
+This file intentionally contains a randomly generated, non-functional
+string matching AWS's Access Key ID / Secret Access Key format, for the
+sole purpose of testing GitHub Advanced Security secret scanning
+detection. This key was never issued by AWS and is not a real credential.
 
-aws_access_key_id = AKIAIOSFODNN7EXAMPLE
-aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+aws_access_key_id = AKIAFE78183650403397
+aws_secret_access_key = 8LrJ775LS2WzN6Hcm9mqH0vUW1WusaxDYk3pHPBG
