@@ -1,0 +1,7 @@
+This file intentionally contains AWS's own publicly documented EXAMPLE credentials
+(https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html)
+for the sole purpose of testing GitHub Advanced Security secret scanning detection.
+These values are non-functional placeholders and are not real credentials.
+
+aws_access_key_id = AKIAIOSFODNN7EXAMPLE
+aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
